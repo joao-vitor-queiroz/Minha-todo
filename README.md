@@ -33,7 +33,7 @@ O `useState` é um **Hook** do React que permite adicionar um "estado" ao compon
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/joao-vitor-queiroz/Minha-todo
    ```
 
 2. Entre na pasta do projeto:
