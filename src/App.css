@@ -1,0 +1,56 @@
+body {
+  background-color: white;
+}
+
+.container {
+  background-color: rgb(237, 237, 237);
+  width: 500px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 20px;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: black;
+  font-size: 40px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+
+input {
+  background-color: white;
+  width: 350px;
+  padding: 15px;
+  border: 1px;
+  border-radius: 10px;
+  margin-bottom: 60px;
+  margin-right: 5px;
+}
+
+.botao {
+  padding: 15px;
+  background-color: #28a745;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.botao:hover { 
+  background-color: green; 
+}
+
+ul { 
+  list-style: none;
+  padding: 0px; 
+  }
+
+.tarefa {
+  background: white;
+  margin: 15px;
+  padding: 10px;
+  text-align: left;
+  border-radius: 15px;
+}
